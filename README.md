@@ -56,4 +56,4 @@ data-warehouse-project/
 
 ## 🙏 Credit
 
-Original project design by [Data With Baraa](https://linkedin.com/in/baraa-khatib-salkini). Licensed under [MIT License](LICENSE).
+Original project design by [Data With Baraa](https://linkedin.com/in/baraa-khatib-salkini). 
